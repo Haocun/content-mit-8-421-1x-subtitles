@@ -36,7 +36,7 @@ But now with cold atoms, we can achieve much, much longer
 interrogatin times by completely--
 by almost completely eliminating the atomic motion.
 And the current experiment is that we
-have a cloud that is coming to microwaving temperature.
+have a cloud that is cooling to microwaving temperature.
 You launch it into a fountain.
 The cloud goes up and goes down.
 And you integrate it twice.
@@ -71,7 +71,7 @@ or such is almost trivial.
 You should know all about it.
 But I can just say without looking at anybody,
 that I just had a lunch discussion with some
-of my graduate students, and we talked about laser stipulation.
+of my graduate students, and we talked about laser stabilization.
 And one graduate student asked, but if the net should
 align with over transition is 10 megahertz,
 can be stabilize the laser to better than the megahertz.
